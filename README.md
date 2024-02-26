@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adiraj Hodlurkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/aadi2525/Adiraj/assets/123805819/a6d607b8-1137-46b5-acd2-f3c4d71c3bed)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadi2525&label=Profile%20views&color=0e75b6&style=flat" alt="aadi2525" /> </p>
 
